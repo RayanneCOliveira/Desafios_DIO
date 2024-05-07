@@ -1,14 +1,14 @@
-# Desafios_DIO
+# Desafios DIO
 
-Resolução dos desafios dos cursos de formação e bootcamps
-
-
-# Cursos de formação:
-
-Go
-Java
+Resolução dos desafios dos cursos de formação e bootcamps da DIO
 
 
-# Bootcamps:
+### Cursos de formação:
 
-Santander Backend Java
+1. Java
+2. Go
+
+
+### Bootcamps:
+
+1. Santander Backend Java
